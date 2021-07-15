@@ -1,2 +1,2 @@
 # ML
-Notebooks para a disciplina de Aprendizado de Máquina
+Notebooks para a disciplina de Aprendizado de Máquina.
